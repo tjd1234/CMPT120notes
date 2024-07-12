@@ -127,16 +127,14 @@ Chapter 10: Dictionaries
 - Accumulating a list
 - Skip: memos
 
-Chapter 11: Tuples (if there's time)
-- Introduction to tuples 
-- Tuple assignment
-- Tuples as return values
-- Argument packing
-- Zip
-- Comparing and sorting
-- Optional: inverting a dictionary
+Algorithms
+- linear search
+- binary search
+- sorting: selection sort and mergesort intro
+- performance analysis
 
 Skip the following chapters for now:
+- Chapter 11: Tuples
 - Chapter 12: Text Analysis and Generation
 - Chapter 13: Files and Databases
 - Chapter 14: Classes and Functions
