@@ -30,7 +30,7 @@ Basically 1 chapter per week; first week and midterm week will be shorter
 - Assignment 2: based on Chapters 1-4
 - Assignment 3: based on Chapters 1-6
 - Assignment 4: based on Chapters 1-8
-- Assignment 5: based on Chapters 1-10
+- Assignment 5: based on Chapters 1-10, and some algorithms
 
 ## Topic Outline (based on Textbook)
 
